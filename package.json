@@ -1,0 +1,54 @@
+{
+  "name": "curiousn",
+  "version": "0.2.3",
+  "description": "Small library to produce 'Curious' numbers",
+  "author": {
+    "name": "netrc",
+    "email": "ric@netrc.com"
+  },
+  "license": "Beerware",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/netrc/curiousn.git"
+  },
+  "dependencies": {
+    "big-integer": "*",
+    "tape": "*"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "main": "curiousn.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/netrc/curiousn/issues"
+  },
+  "homepage": "https://github.com/netrc/curiousn#readme",
+  "_id": "curiousn@0.2.2",
+  "_shasum": "4965a641585fa37a453ecab165edc59a92a3cb6c",
+  "_from": "curiousn@*",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.2",
+  "_npmUser": {
+    "name": "netrc",
+    "email": "ric@netrc.com"
+  },
+  "dist": {
+    "shasum": "4965a641585fa37a453ecab165edc59a92a3cb6c",
+    "tarball": "https://registry.npmjs.org/curiousn/-/curiousn-0.2.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "netrc",
+      "email": "ric@netrc.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/curiousn-0.2.2.tgz_1459514349590_0.3013704107142985"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/curiousn/-/curiousn-0.2.2.tgz"
+}
