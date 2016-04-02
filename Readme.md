@@ -1,10 +1,10 @@
 
 
-# Curious/Automorphic Number
+# Curious/Automorphic Numbers
 
-An N-digit number X, such that the last N-digits of X^2 == X
+An N-digit number X, such that the last N-digits of X&sup2; == X
 
-e.g. 2-digit "25",  25^2 is 625.
+e.g. 2-digit "25",  25&sup2; is "625".
 
 ## Usage
 
