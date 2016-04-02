@@ -20,7 +20,7 @@
   },
   "main": "curiousn.js",
   "scripts": {
-    "clean": "/bin/rm -rf node_modules"
+    "clean": "/bin/rm -rf node_modules",
     "test": "node test.js"
   },
   "bugs": {
