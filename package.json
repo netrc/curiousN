@@ -1,6 +1,6 @@
 {
   "name": "curiousn",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "Small library to produce 'Curious' numbers",
   "author": {
     "name": "netrc",
@@ -16,7 +16,7 @@
     "tape": "*"
   },
   "engines": {
-    "node": ">4"
+    "node": ">=4"
   },
   "main": "curiousn.js",
   "scripts": {
