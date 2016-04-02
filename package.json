@@ -16,7 +16,7 @@
     "tape": "*"
   },
   "engines": {
-    "node": "*"
+    "node": ">4"
   },
   "main": "curiousn.js",
   "scripts": {
